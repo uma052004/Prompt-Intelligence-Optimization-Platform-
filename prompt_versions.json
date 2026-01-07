@@ -1,0 +1,110 @@
+[
+    {
+        "original_prompt": "Explain REST APIs.",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. Explain REST APIs. Explain it for a beginner. Use bullet points. Limit the response to 100 words.",
+                "total_score": 32,
+                "explainability": 34,
+                "timestamp": "2026-01-05 21:57:06"
+            }
+        ]
+    },
+    {
+        "original_prompt": "Explain REST APIs in simple terms.",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. Explain REST APIs in simple terms. Explain it for a beginner. Use bullet points. Limit the response to 100 words.",
+                "total_score": 35,
+                "explainability": 38,
+                "timestamp": "2026-01-05 21:57:06"
+            }
+        ]
+    },
+    {
+        "original_prompt": "You are a software instructor. Explain REST APIs with examples in under 100 words.",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are a software instructor. Explain REST APIs with examples in under 100 words. Explain it for a beginner. Use bullet points.",
+                "total_score": 35,
+                "explainability": 78,
+                "timestamp": "2026-01-05 21:57:06"
+            }
+        ]
+    },
+    {
+        "original_prompt": "explain java in simple way",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. explain java in simple way Explain it for a beginner. Use bullet points. Limit the response to 100 words.",
+                "total_score": 32,
+                "explainability": 40,
+                "timestamp": "2026-01-05 22:08:09"
+            }
+        ]
+    },
+    {
+        "original_prompt": "explain java in 100 words for begginners",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. explain java in 100 words for begginners Explain it for a beginner. Use bullet points.",
+                "total_score": 36,
+                "explainability": 60,
+                "timestamp": "2026-01-05 22:08:09"
+            }
+        ]
+    },
+    {
+        "original_prompt": "explain java in simple way ",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. explain java in simple way  Explain it for a beginner. Use bullet points. Limit the response to 100 words.",
+                "total_score": 32,
+                "explainability": 36,
+                "timestamp": "2026-01-07 21:09:16"
+            }
+        ]
+    },
+    {
+        "original_prompt": "explain java in 100 words for beginners ",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. explain java in 100 words for beginners  Explain it for a beginner. Use bullet points.",
+                "total_score": 31,
+                "explainability": 60,
+                "timestamp": "2026-01-07 21:09:16"
+            }
+        ]
+    },
+    {
+        "original_prompt": "explain java ",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant. explain java  Explain it for a beginner. Use bullet points. Limit the response to 100 words.",
+                "total_score": 26,
+                "explainability": 34,
+                "timestamp": "2026-01-07 21:09:16"
+            }
+        ]
+    },
+    {
+        "original_prompt": "  \u201cWrite a prompt for an AI to create a catchy social media ad for a new energy drink targeting young adults.\u201d",
+        "versions": [
+            {
+                "version": 1,
+                "prompt": "You are an expert assistant.   \u201cWrite a prompt for an AI to create a catchy social media ad for a new energy drink targeting young adults.\u201d Use bullet points. Limit the response to 100 words.",
+                "total_score": 31,
+                "explainability": 36,
+                "timestamp": "2026-01-08 00:04:24"
+            }
+        ]
+    }
+]
